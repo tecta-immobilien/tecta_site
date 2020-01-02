@@ -1,6 +1,6 @@
 +++
 url = "/"
-title = "Tecta Immobilien"
+title = "Home"
 date = "2019-12-26"
-description = "Tecta Immobilien"
+description = ""
 +++
