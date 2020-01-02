@@ -1,0 +1,10 @@
+{{- range .categories }}
+  <div style="font-size:18px;" class="badge mr-1 mb-1
+    {{- if (eq $.background "dark") -}}
+      {{- printf " badge-%s" "light" -}}
+    {{- else -}}
+      {{- printf " badge-%s" "light" -}}
+    {{- end -}}">
+    {{- . -}}
+  </div>
+{{- end }}

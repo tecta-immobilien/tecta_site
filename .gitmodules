@@ -1,0 +1,6 @@
+[submodule "themes/syna"]
+	path = themes/syna
+	url = https://git.okkur.org/syna
+[submodule "tecta-immobilien.github.io"]
+	path = tecta-immobilien.github.io
+	url = https://github.com/tecta-immobilien/tecta-immobilien.github.io.git
