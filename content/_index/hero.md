@@ -11,7 +11,7 @@ subtitle = " "
 
 [header]
   #image = "header/beach.jpeg"
-  image = "header/stufen.jpg"
+  #image = "header/stufen.jpg"
   #image = "header/beach-house-weit2.jpeg"
 [asset]
   image = "tecta.svg"
@@ -19,17 +19,17 @@ subtitle = " "
   #height = "150px" # optional - will default to image height
 
 [[buttons]]
+  text = "Angebote"
+  url = "/objects"
+  color = "success"
+
+[[buttons]]
   text = "Beratung"
   url = "/about/#services"
   color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "Objekte"
-  url = "/objects"
-  color = "primary"
-
-[[buttons]]
   text = "Kontakt"
   url = "#contact"
-  color = "success"
+  color = "primary"
 +++

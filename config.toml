@@ -46,9 +46,10 @@ lastmod = ["lastmod", ":git", "date"]
     disabled = false
     pro = false
 
+# Colours do not seem to change. Colours take effect once you run the command "hugo" (not "hugo server -D")
   [params.colors]
     primary = "#3c3c76ff"
-    secondary = "#e0e1e1"
+    secondary = "#fae09fff"
     success = "#f6c956ff"
     info = "#49b7e8ff"
     warning = "#fdf314"
@@ -66,7 +67,7 @@ lastmod = ["lastmod", ":git", "date"]
 
 [[menu.main]]
   url = "/objects"
-  name = "Objekte"
+  name = "Angebote"
   weight = 20
 
 [[menu.main]]
