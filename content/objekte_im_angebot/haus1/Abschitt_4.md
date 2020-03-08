@@ -11,14 +11,14 @@ subtitle= ""
 
 # Subtitle pre and post item
 #pre = "Awesome screenshot"
-post = "Grundriss"
+post = "Lage"
 
 [asset]
-  image = "objects/haus1/h1_4.jpeg"
+  image = "objects/haus1/h1_4.jpg"
 +++
 
 Das Grundstück liegt in einem gepflegten und äußerst ruhigen Wohngebiet in Marzoll, einem Ortsteil der
-beliebten KurstadtBad Reichenhall.
+beliebten Kurstadt Bad Reichenhall.
 
 Eine Bushaltestelle und ein Lebensmittelgeschäft für den täglichen Bedarf kann man in wenigen
 Gehminuten erreichen und das sehr schön gestaltete Freibad `Bachei´ und ein Tennisplatz sind

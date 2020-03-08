@@ -6,15 +6,15 @@ weight = 200
 background = "secondary"
 align = "center" #center right left
 
-title = "Erdgeschoss"
+title = "Erdgeschoß"
 subtitle= ""
 
 # Subtitle pre and post item
 #pre = "Awesome screenshot"
-post = "Grundriss Erdgeschoss"
+post = "Grundriß Erdgeschoß"
 
 [asset]
-  image = "objects/haus1/h1_2.jpeg"
+  image = "objects/haus1/h1_2.jpg"
 +++
 
 Im Erdgeschoß entstand so eine großzügige Raumflucht aus dem Eingangsbereich mit Garderobe und

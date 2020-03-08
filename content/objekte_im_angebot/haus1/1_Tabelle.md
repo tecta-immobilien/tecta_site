@@ -33,28 +33,28 @@ subtitle= ""
 
 [[rows]]
   [[rows.values]]
-    header = "Wohnflaeche"
+    header = "Wohnfläche"
 
   [[rows.values]]
     text = "142 m&#178;"
 
 [[rows]]
   [[rows.values]]
-    header = "Reserveflaeche"
+    header = "Reservefläche"
 
   [[rows.values]]
     text = "22 m&#178;"
 
 [[rows]]
   [[rows.values]]
-    header = "Garagenplaetze"
+    header = "Garagenplätze"
 
   [[rows.values]]
     text = "1"
 
 [[rows]]
   [[rows.values]]
-    header = "Grundstueckgroesse"
+    header = "Grundstückgröße"
 
   [[rows.values]]
     text = "816 m&#178;"

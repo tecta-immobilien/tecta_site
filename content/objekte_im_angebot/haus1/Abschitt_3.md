@@ -6,15 +6,15 @@ weight = 300
 background = "light"
 align = "center" #center right left
 
-title = "Obergeschoss"
+title = "Obergeschoß"
 subtitle= ""
 
 # Subtitle pre and post item
 #pre = "Awesome screenshot"
-post = "Grundriss Obergeschoss"
+post = "Grundriß Obergeschoß"
 
 [asset]
-  image = "objects/haus1/h1_3.jpeg"
+  image = "objects/haus1/h1_3.jpg"
 +++
 
 Im Obergeschoß befinden sich zwei große Schlafräume, aus denen man auf einen, die ganze Hausbreite
