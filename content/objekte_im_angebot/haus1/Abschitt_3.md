@@ -17,7 +17,12 @@ post = "Grundriss Obergeschoss"
   image = "objects/haus1/h1_3.jpeg"
 +++
 
-Zur liebevoll eingerichteten Ferienwohnung zur Malerin gehören eine sonnige Terrasse und ein großer Garten mit herrlichem Bergblick auf den Hochstaufen und das Lattengebirge. 
-Die Ferienwohnung befindet sich in absolut ruhiger Lage und bietet für 1- 4 Personen einen idealen Ausgangspunkt für Wanderungen, Radtouren und Trips nach Salzburg (10 km) und ins Umland, ebenso wie einen behaglichen Platz, um einfach die Seele baumeln zu lassen. 
-Die nächste Bushaltestelle und einen Einkaufsladen erreichen Sie in 4 Gehminuten, ein schön gestaltetes öffentliches Freibad liegt nur 700 m entfernt. Den Nationalpark Berchtesgaden erreichen Sie nach nur 20 km. 
-Im Winter laden Langlaufloipen (800 m entfernt) und die Skigebiete Bad Reichenhall Predigtstuhl (7,2 km), Skilifte Weißbach (12,1 km), Skilifte Berchtesgaden Götschen (12,6 km) sowie Skilifte Hochschwarzeck/Ramsau (13,6 km) zum Wintersport ein.
+Im Obergeschoß befinden sich zwei große Schlafräume, aus denen man auf einen, die ganze Hausbreite
+einnehmenden Balkon treten kann und einen phantastischen Blick auf die umliegende Bergwelt hat.
+Zur Rückseite des Hauses gibt es außerdem ein kleineres Zimmer, das momentan als eine weitere
+Küche dient, sowie ein geräumiges, helles Bad und ein zusätzliches WC.
+
+Zur Zeit wird das Erdgeschoß und das einzelne, direkt vomTreppenhaus ereichbare Schlafzimmer in der 1. Etage als Ferienwohnung vermietet und das restliche Obergeschoß als eine abgeschlossene Einheit
+von den Eigentümern privat genutzt.
+
+Das Gebäude kann somit sowohl als Einfamilien- wie als Zweifamilienhaus Verwendung finden.

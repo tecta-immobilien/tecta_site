@@ -7,7 +7,7 @@ background = "light"
 form_name = "defaultContact"
 
 title = "Kontakt"
-subtitle  = "Wir freuen uns über Ihre Nachricht!"
+subtitle  = "Wir freuen uns auf Ihre Nachricht!"
 
 # PostURL can be used with backends such as mailout from caddy
 post_url = "https://tecta-immobilien.net" #default: formspree.io

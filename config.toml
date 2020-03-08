@@ -46,15 +46,15 @@ lastmod = ["lastmod", ":git", "date"]
     disabled = false
     pro = false
 
-# Colours do not seem to change. Colours take effect once you run the command "hugo" (not "hugo server -D")
+# Colours take effect once you run the command "hugo" (not "hugo server -D")
   [params.colors]
-    primary = "#3c3c76ff"
-    secondary = "#fae09fff"
+    primary = "#3c3c76ff" # text_dark
+    secondary = "#e6e6e6ff"
     success = "#f6c956ff"
     info = "#49b7e8ff"
-    warning = "#fdf314"
+    warning = "#49b7e8ff"
     danger = "#ff0066"
-    light = "#f8f9fa"
+    light = "#ffffff"
     dark = "#343a40"
 
 # main/prepend/postpend menus are displayed in nav fragment.

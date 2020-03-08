@@ -13,4 +13,6 @@ subtitle = "Einfamilien Haus in Reichenhall"
   image = "/objects/haus1/h1_1.jpg"
 +++
 
-Dieses liebenswerte Einfamilienhaus wurde 1959 errichtet und im Laufe der Jahre mehrfach renoviert. Man erneuerte die Fenster, die Heizung, die Elektrik und die Bäder und legte einige kleinere Räume zusammen. Im Erdgeschoß entstand so eine großzügige Raumflucht aus dem Eingangsbereich mit Garderobe und einem Gäste-WC mit Dusche sowie einem über 40 m messenden Wohnund Essbereich mit einer nur durch eine Glas-Schiebetür getrennten Küche. Dem Garten zugewandt liegt ein Hobbyraum, der von der Garage wie vom Treppenhaus her zugänglich ist.
+Dieses liebenswerte Einfamilienhaus wurde 1959 errichtet und im Laufe der Jahre mehrfach renoviert.
+Man erneuerte die Fenster, die Heizung, die Elektrik und die Bäder und legte einige kleinere Räume
+zusammen

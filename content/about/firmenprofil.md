@@ -9,7 +9,7 @@ title = ""
 subtitle = ""
 +++
 
-## Firmenprofil
+## Über uns
 Die Firma Tecta Immobilien GmbH wurde 1989 in Berlin für den An- und Verkauf, die Verwaltung sowie die Vermittlung von Immobilien gegründet. 
 
 Gerade in der ersten Zeit nach der Wende nahm das Maklergeschäft einen breiten Raum ein. 

@@ -25,11 +25,11 @@ subtitle = " "
 
 [[buttons]]
   text = "Beratung"
-  url = "/about/#services"
-  color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+  url = "#beratung"
+  color = "primary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
   text = "Kontakt"
   url = "#contact"
-  color = "primary"
+  color = "info"
 +++
